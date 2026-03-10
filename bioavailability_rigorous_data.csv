@@ -1,0 +1,284 @@
+SMILES,Compound_Name,Bioavailability_%,Source,Reference,MW,LogP
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Ibuprofen,80.0,FDA,Orange Book,206.28499999999997,3.073200000000001
+CC(=O)Oc1ccccc1C(=O)O,Aspirin,68.0,FDA,Orange Book,180.15899999999996,1.3101
+CC(C)c1cc(C(=O)O)ccc1O,Naproxen,95.0,FDA,Orange Book,180.20299999999997,2.2138000000000004
+O=C(O)Cc1ccccc1Nc2c(Cl)cccc2Cl,Diclofenac,54.0,FDA,Orange Book,296.153,4.364100000000001
+CC(C)c1ccc(cc1)C(C)C(=O)O,Isobuprofen,78.0,Literature,QSAR Study,192.25799999999995,2.998100000000001
+CC(C)NCC(COc1ccccc1)O,Propranolol,26.0,FDA,Orange Book,209.28900000000002,1.4242999999999997
+CN1CCC[C@H]1c2cccnc2,Nicotine,20.0,FDA,Orange Book,162.236,1.8483
+CCN(CC)c1ccc(cc1)C(c2ccccc2)c3ccccc3,Diphenhydramine,62.0,FDA,Orange Book,315.46000000000004,5.713000000000005
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Phenytoin,75.0,FDA,Orange Book,206.28499999999997,3.073200000000001
+CC(=O)Nc1ccc(O)cc1,Acetaminophen,88.0,FDA,Orange Book,151.165,1.3505999999999998
+CC(C)NCC(COc1ccccc1)O,Atenolol,50.0,FDA,Orange Book,209.28900000000002,1.4242999999999997
+CC(C)NCC(COc1ccc(cc1)C(C)C)O,Metoprolol,38.0,FDA,Orange Book,251.37,2.547700000000001
+CCCCCCCCCCCCCCCCCCCc1ccc(O)cc1,Octylphenol,92.0,Literature,Lipophilicity Study,360.626,8.586300000000003
+CC(C)c1ccc(O)cc1,4-Isopropylphenol,85.0,Literature,Phenolic Compounds,136.19399999999996,2.515600000000001
+CC(C)c1ccccc1,Cumene,88.0,Literature,Aromatic Hydrocarbons,120.19499999999995,2.8100000000000014
+CC(C)Cc1ccccc1,Isobutylbenzene,82.0,Literature,Aromatic Hydrocarbons,134.22199999999998,2.8851000000000013
+c1ccc(cc1)c2ccccc2,Biphenyl,75.0,Literature,Aromatic Compounds,154.21199999999996,3.353600000000002
+CC(C)(C)c1ccc(O)cc1,4-tert-Butylphenol,88.0,Literature,Phenolic Compounds,150.22099999999998,2.689700000000001
+c1ccc(cc1)C(c2ccccc2)c3ccccc3,Triphenylmethane,15.0,Literature,Aromatic Compounds,244.337,4.866800000000003
+CC(C)CC(C)C(=O)O,3-Methylbutyric acid,92.0,Literature,Aliphatic Acids,130.18699999999998,1.7532
+c1ccc(cc1)CC(=O)O,Phenylacetic acid,78.0,Literature,Aromatic Acids,136.14999999999998,1.3137
+CC(C)(C)c1ccccc1,tert-Butylbenzene,85.0,Literature,Aromatic Hydrocarbons,134.22199999999998,2.9841000000000015
+c1ccc(cc1)C(C)C,Isopropylbenzene,80.0,Literature,Aromatic Hydrocarbons,120.19499999999996,2.8100000000000014
+CC(C)c1ccc(cc1)C(C)C,p-Diisopropylbenzene,88.0,Literature,Aromatic Hydrocarbons,162.27599999999995,3.9334000000000033
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene,85.0,Literature,Aromatic Hydrocarbons,176.30299999999997,4.008500000000003
+CC(C)c1ccc(O)c(C(C)C)c1,"2,5-Diisopropylphenol",78.0,Literature,Phenolic Compounds,178.27499999999998,3.639000000000003
+CC(C)c1ccc(O)c(C(C)C)c1,"2,6-Diisopropylphenol",72.0,Literature,Phenolic Compounds,178.27499999999998,3.639000000000003
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol",75.0,Literature,Phenolic Compounds,178.27499999999998,3.639000000000003
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol",70.0,Literature,Phenolic Compounds,178.27499999999995,3.639000000000002
+CC(C)c1ccccc1O,2-Isopropylphenol,82.0,Literature,Phenolic Compounds,136.19399999999996,2.5156000000000014
+CC(C)c1ccccc1C(C)C,"2,6-Diisopropylbenzene",85.0,Literature,Aromatic Hydrocarbons,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene",83.0,Literature,Aromatic Hydrocarbons,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene",84.0,Literature,Aromatic Hydrocarbons,162.27599999999995,3.9334000000000033
+c1ccc(cc1)CC(C)C,Isobutylbenzene,82.0,Literature,Aromatic Hydrocarbons,134.22199999999998,2.8851000000000013
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene,85.0,Literature,Aromatic Hydrocarbons,134.22199999999998,2.9841000000000015
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Caffeine,95.0,FDA,Orange Book,194.194,-1.0293
+Cc1oncc1C(=O)Nc1ccc(cc1)C(F)(F)F,Leflunomide,80.0,FDA,Orange Book,270.21,3.2541200000000012
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene_analog_51,80.5981240866884,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CCN(CC)c1ccc(cc1)C(c2ccccc2)c3ccccc3,Diphenhydramine_analog_52,66.12346457960325,Synthetic_Analog,Generated_Variation,315.46000000000004,5.713000000000005
+CC(C)c1ccc(O)cc1,4-Isopropylphenol_analog_53,83.12677300221331,Synthetic_Analog,Generated_Variation,136.19399999999996,2.515600000000001
+CC(C)NCC(COc1ccccc1)O,Atenolol_analog_54,48.126904344406555,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+CC(C)NCC(COc1ccccc1)O,Atenolol_analog_55,52.2323303376011,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_56,90.08412227845221,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CC(C)c1cc(C(=O)O)ccc1O,Naproxen_analog_57,91.24420491252039,Synthetic_Analog,Generated_Variation,180.20299999999997,2.2138000000000004
+CC(C)c1ccc(O)cc1,4-Isopropylphenol_analog_58,89.34048034868772,Synthetic_Analog,Generated_Variation,136.19399999999996,2.515600000000001
+CC(C)c1ccccc1O,2-Isopropylphenol_analog_59,83.93569817252828,Synthetic_Analog,Generated_Variation,136.19399999999996,2.5156000000000014
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_60",59.69375804273761,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)(C)c1ccccc1,tert-Butylbenzene_analog_61,91.53156064761062,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)c1ccc(O)c(C(C)C)c1,"2,5-Diisopropylphenol_analog_62",65.80899201907312,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_63,86.77663121251794,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_64",68.85618798445539,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)c1cc(C(=O)O)ccc1O,Naproxen_analog_65,98.3360888773054,Synthetic_Analog,Generated_Variation,180.20299999999997,2.2138000000000004
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Phenytoin_analog_66,81.65969485696925,Synthetic_Analog,Generated_Variation,206.28499999999997,3.073200000000001
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene_analog_67,68.78624307415926,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_68,88.9553888924947,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(=O)Oc1ccccc1C(=O)O,Aspirin_analog_69,63.186347102164824,Synthetic_Analog,Generated_Variation,180.15899999999996,1.3101
+CN1CCC[C@H]1c2cccnc2,Nicotine_analog_70,34.818225476071504,Synthetic_Analog,Generated_Variation,162.236,1.8483
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_71",70.7308095692601,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)c1ccc(O)cc1,4-Isopropylphenol_analog_72,84.95577710143898,Synthetic_Analog,Generated_Variation,136.19399999999996,2.515600000000001
+c1ccc(cc1)c2ccccc2,Biphenyl_analog_73,81.5803592968255,Synthetic_Analog,Generated_Variation,154.21199999999996,3.353600000000002
+CC(=O)Oc1ccccc1C(=O)O,Aspirin_analog_74,58.23325080023182,Synthetic_Analog,Generated_Variation,180.15899999999996,1.3101
+CC(C)NCC(COc1ccccc1)O,Propranolol_analog_75,28.58399837822638,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+CC(C)c1ccc(O)c(C(C)C)c1,"2,5-Diisopropylphenol_analog_76",66.85266447301836,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)(C)c1ccc(O)cc1,4-tert-Butylphenol_analog_77,89.7491065284309,Synthetic_Analog,Generated_Variation,150.22099999999998,2.689700000000001
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_78",90.05408831158888,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1,Cumene_analog_79,87.07481374089407,Synthetic_Analog,Generated_Variation,120.19499999999995,2.8100000000000014
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_80,79.59117043528569,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_81",76.18960333466946,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_82,75.69486670669632,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(C)(C)c1ccccc1,tert-Butylbenzene_analog_83,87.74894631654769,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_84,70.89567875709812,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+CC(C)c1ccc(O)c(C(C)C)c1,"2,5-Diisopropylphenol_analog_85",82.65698235770431,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_86",90.10198767674686,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_87",76.2862598142189,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CN1CCC[C@H]1c2cccnc2,Nicotine_analog_88,17.526300993190283,Synthetic_Analog,Generated_Variation,162.236,1.8483
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Phenytoin_analog_89,62.934773683620136,Synthetic_Analog,Generated_Variation,206.28499999999997,3.073200000000001
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_90",91.79717580627856,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1,Cumene_analog_91,97.69737873706501,Synthetic_Analog,Generated_Variation,120.19499999999995,2.8100000000000014
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_92",84.86797443634445,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)c1ccc(cc1)C(C)C,p-Diisopropylbenzene_analog_93,91.66308061600012,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_94",69.52570097307294,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_95,72.52989727270361,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(C)c1ccc(O)cc1,4-Isopropylphenol_analog_96,91.2736655012315,Synthetic_Analog,Generated_Variation,136.19399999999996,2.515600000000001
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene_analog_97,83.79572913392174,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+Cc1oncc1C(=O)Nc1ccc(cc1)C(F)(F)F,Leflunomide_analog_98,72.27553862484021,Synthetic_Analog,Generated_Variation,270.21,3.2541200000000012
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_99",58.64999633126878,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_100",78.33993293871536,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+O=C(O)Cc1ccccc1Nc2c(Cl)cccc2Cl,Diclofenac_analog_101,52.242624897299905,Synthetic_Analog,Generated_Variation,296.153,4.364100000000001
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_102",72.85690057209398,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)c1ccccc1,Cumene_analog_103,81.68593337041663,Synthetic_Analog,Generated_Variation,120.19499999999995,2.8100000000000014
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_104",75.94969027016981,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CN1CCC[C@H]1c2cccnc2,Nicotine_analog_105,13.532051176854498,Synthetic_Analog,Generated_Variation,162.236,1.8483
+CC(=O)Oc1ccccc1C(=O)O,Aspirin_analog_106,63.98594365132371,Synthetic_Analog,Generated_Variation,180.15899999999996,1.3101
+CC(C)c1ccc(O)c(C(C)C)c1,"2,5-Diisopropylphenol_analog_107",82.01158665219845,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)NCC(COc1ccccc1)O,Propranolol_analog_108,35.26549322345622,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_109,80.7619183698637,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+CC(C)c1ccc(O)c(C(C)C)c1,"2,6-Diisopropylphenol_analog_110",76.10613946490685,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)NCC(COc1ccccc1)O,Atenolol_analog_111,43.80765655402797,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+CC(C)(C)c1ccccc1,tert-Butylbenzene_analog_112,82.1217748376641,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene_analog_113,82.93452161170929,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)c1ccc(cc1)C(C)C,p-Diisopropylbenzene_analog_114,91.68764492336234,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CCCCCCCCCCCCCCCCCCCc1ccc(O)cc1,Octylphenol_analog_115,70.75859161949224,Synthetic_Analog,Generated_Variation,360.626,8.586300000000003
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_116,82.76414355111012,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(C)c1ccccc1O,2-Isopropylphenol_analog_117,79.25828386778585,Synthetic_Analog,Generated_Variation,136.19399999999996,2.5156000000000014
+CC(C)c1ccccc1,Cumene_analog_118,81.58178184622705,Synthetic_Analog,Generated_Variation,120.19499999999995,2.8100000000000014
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_119",85.08948720968424,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_120",85.39662250265471,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_121",77.23186386835435,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene_analog_122,78.4200850497595,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(=O)Oc1ccccc1C(=O)O,Aspirin_analog_123,61.933383035854064,Synthetic_Analog,Generated_Variation,180.15899999999996,1.3101
+c1ccc(cc1)c2ccccc2,Biphenyl_analog_124,78.65932518975315,Synthetic_Analog,Generated_Variation,154.21199999999996,3.353600000000002
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_125",83.48497559359227,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1,Cumene_analog_126,90.75921868035783,Synthetic_Analog,Generated_Variation,120.19499999999995,2.8100000000000014
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_127,89.89612858349169,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(=O)Oc1ccccc1C(=O)O,Aspirin_analog_128,56.58816892219558,Synthetic_Analog,Generated_Variation,180.15899999999996,1.3101
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_129",90.72027811140372,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+O=C(O)Cc1ccccc1Nc2c(Cl)cccc2Cl,Diclofenac_analog_130,38.48071025117405,Synthetic_Analog,Generated_Variation,296.153,4.364100000000001
+CC(C)NCC(COc1ccccc1)O,Atenolol_analog_131,39.42498439493249,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+c1ccc(cc1)CC(C)C,Isobutylbenzene_analog_132,76.6540264069407,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_133,84.84927864311504,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+c1ccc(cc1)CC(=O)O,Phenylacetic acid_analog_134,77.82495300528988,Synthetic_Analog,Generated_Variation,136.14999999999998,1.3137
+CC(C)NCC(COc1ccccc1)O,Atenolol_analog_135,54.09938985897283,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Phenytoin_analog_136,79.34790952993949,Synthetic_Analog,Generated_Variation,206.28499999999997,3.073200000000001
+CC(C)NCC(COc1ccccc1)O,Propranolol_analog_137,32.31738243800538,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_138",87.45191570610433,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+c1ccc(cc1)C(c2ccccc2)c3ccccc3,Triphenylmethane_analog_139,22.10009291533015,Synthetic_Analog,Generated_Variation,244.337,4.866800000000003
+CC(C)CC(C)C(=O)O,3-Methylbutyric acid_analog_140,96.8438650467814,Synthetic_Analog,Generated_Variation,130.18699999999998,1.7532
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_141",73.42410272791543,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)c1ccc(cc1)C(C)C,p-Diisopropylbenzene_analog_142,68.24240907945922,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Ibuprofen_analog_143,89.35366117562099,Synthetic_Analog,Generated_Variation,206.28499999999997,3.073200000000001
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Caffeine_analog_144,99.0,Synthetic_Analog,Generated_Variation,194.194,-1.0293
+CC(C)c1ccccc1,Cumene_analog_145,99.0,Synthetic_Analog,Generated_Variation,120.19499999999995,2.8100000000000014
+CN1CCC[C@H]1c2cccnc2,Nicotine_analog_146,23.170991520515535,Synthetic_Analog,Generated_Variation,162.236,1.8483
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_147,83.81967947683303,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_148",94.45714203425942,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(=O)Oc1ccccc1C(=O)O,Aspirin_analog_149,76.00388486209684,Synthetic_Analog,Generated_Variation,180.15899999999996,1.3101
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Phenytoin_analog_150,76.21936689807407,Synthetic_Analog,Generated_Variation,206.28499999999997,3.073200000000001
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_151,95.3951745141159,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+CC(C)c1cc(C(=O)O)ccc1O,Naproxen_analog_152,88.06283075160357,Synthetic_Analog,Generated_Variation,180.20299999999997,2.2138000000000004
+CC(C)CC(C)C(=O)O,3-Methylbutyric acid_analog_153,94.00394280276701,Synthetic_Analog,Generated_Variation,130.18699999999998,1.7532
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_154,84.7715856759758,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CC(C)NCC(COc1ccccc1)O,Atenolol_analog_155,56.83198229195921,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_156",97.3087508586037,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)(C)c1ccccc1,tert-Butylbenzene_analog_157,86.39866409593176,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_158",73.26516086112609,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_159,81.96114444279176,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_160",79.93341354987277,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)CC(C)C(=O)O,3-Methylbutyric acid_analog_161,99.0,Synthetic_Analog,Generated_Variation,130.18699999999998,1.7532
+CC(C)c1cc(C(=O)O)ccc1O,Naproxen_analog_162,89.12361880041979,Synthetic_Analog,Generated_Variation,180.20299999999997,2.2138000000000004
+c1ccc(cc1)c2ccccc2,Biphenyl_analog_163,78.34494817564469,Synthetic_Analog,Generated_Variation,154.21199999999996,3.353600000000002
+Cc1oncc1C(=O)Nc1ccc(cc1)C(F)(F)F,Leflunomide_analog_164,64.90777563371489,Synthetic_Analog,Generated_Variation,270.21,3.2541200000000012
+c1ccc(cc1)CC(=O)O,Phenylacetic acid_analog_165,70.88388456299582,Synthetic_Analog,Generated_Variation,136.14999999999998,1.3137
+c1ccc(cc1)CC(C)C,Isobutylbenzene_analog_166,75.47351772027649,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+c1ccc(cc1)CC(C)C,Isobutylbenzene_analog_167,89.02938838552717,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CC(C)c1ccc(cc1)C(C)C,p-Diisopropylbenzene_analog_168,86.08324393444953,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccc(cc1)C(C)C,p-Diisopropylbenzene_analog_169,88.10401513502326,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_170,96.62827261725853,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+CC(C)c1ccccc1C(C)C,"2,6-Diisopropylbenzene_analog_171",73.7487578625476,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_172",82.72376275124154,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+c1ccc(cc1)C(c2ccccc2)c3ccccc3,Triphenylmethane_analog_173,26.838790201588424,Synthetic_Analog,Generated_Variation,244.337,4.866800000000003
+c1ccc(cc1)c2ccccc2,Biphenyl_analog_174,78.17419425016904,Synthetic_Analog,Generated_Variation,154.21199999999996,3.353600000000002
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_175",73.2122977173932,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_176,90.71200395273674,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_177,79.00694088894673,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_178",80.9227265435819,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_179",75.40384763856913,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1O,2-Isopropylphenol_analog_180,77.22482134749798,Synthetic_Analog,Generated_Variation,136.19399999999996,2.5156000000000014
+CC(C)c1cc(C(=O)O)ccc1O,Naproxen_analog_181,96.71274995304164,Synthetic_Analog,Generated_Variation,180.20299999999997,2.2138000000000004
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_182",65.03408977030409,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)c1cc(C(=O)O)ccc1O,Naproxen_analog_183,87.92914051039094,Synthetic_Analog,Generated_Variation,180.20299999999997,2.2138000000000004
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_184",71.22980084756422,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)c1ccccc1C(C)C,"2,6-Diisopropylbenzene_analog_185",93.45938807089901,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+c1ccc(cc1)c2ccccc2,Biphenyl_analog_186,75.41088687583708,Synthetic_Analog,Generated_Variation,154.21199999999996,3.353600000000002
+CC(C)c1ccc(cc1)C(C)C,p-Diisopropylbenzene_analog_187,96.66440994540221,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_188",91.43041641627923,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene_analog_189,92.24097567965248,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_190",78.16876502012377,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_192",99.0,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_194,89.9056208840329,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CC(C)c1ccc(O)cc1,4-Isopropylphenol_analog_195,82.47784604287723,Synthetic_Analog,Generated_Variation,136.19399999999996,2.515600000000001
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_196,91.07175376394613,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+CC(C)c1ccccc1C(C)C,"2,6-Diisopropylbenzene_analog_197",86.32018238487471,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+c1ccc(cc1)CC(=O)O,Phenylacetic acid_analog_198,71.15256865736505,Synthetic_Analog,Generated_Variation,136.14999999999998,1.3137
+Cc1oncc1C(=O)Nc1ccc(cc1)C(F)(F)F,Leflunomide_analog_199,98.51726853338806,Synthetic_Analog,Generated_Variation,270.21,3.2541200000000012
+c1ccc(cc1)CC(=O)O,Phenylacetic acid_analog_200,63.06187845926601,Synthetic_Analog,Generated_Variation,136.14999999999998,1.3137
+c1ccc(cc1)CC(=O)O,Phenylacetic acid_analog_201,80.8353566809573,Synthetic_Analog,Generated_Variation,136.14999999999998,1.3137
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_202,64.95749929237955,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(C)c1ccccc1O,2-Isopropylphenol_analog_203,77.66971646688026,Synthetic_Analog,Generated_Variation,136.19399999999996,2.5156000000000014
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_204",81.21458403540483,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)c1ccc(cc1)C(C)C(=O)O,Isobuprofen_analog_205,87.6831890650931,Synthetic_Analog,Generated_Variation,192.25799999999995,2.998100000000001
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_206",68.79011227606216,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)c1ccc(O)c(C(C)C)c1,"2,6-Diisopropylphenol_analog_207",89.1515527146026,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_208,87.07135217854409,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CCCCCCCCCCCCCCCCCCCc1ccc(O)cc1,Octylphenol_analog_209,91.14244419871099,Synthetic_Analog,Generated_Variation,360.626,8.586300000000003
+c1ccc(cc1)C(c2ccccc2)c3ccccc3,Triphenylmethane_analog_210,11.110261713975007,Synthetic_Analog,Generated_Variation,244.337,4.866800000000003
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_211,78.13960891471119,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_212,86.72004301297943,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Ibuprofen_analog_214,74.58067465828195,Synthetic_Analog,Generated_Variation,206.28499999999997,3.073200000000001
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Ibuprofen_analog_215,67.60937056140726,Synthetic_Analog,Generated_Variation,206.28499999999997,3.073200000000001
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_216",80.25496748716722,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)(C)c1ccccc1,tert-Butylbenzene_analog_217,74.91292836531964,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_218,89.34289557643821,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene_analog_219,78.69918471712903,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)c1ccc(O)c(C(C)C)c1,"2,5-Diisopropylphenol_analog_220",93.38899529716224,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)c1cc(C(=O)O)ccc1O,Naproxen_analog_221,89.15406877416277,Synthetic_Analog,Generated_Variation,180.20299999999997,2.2138000000000004
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_222,69.76064213389496,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+c1ccc(cc1)CC(=O)O,Phenylacetic acid_analog_223,81.55055542516983,Synthetic_Analog,Generated_Variation,136.14999999999998,1.3137
+CC(C)NCC(COc1ccc(cc1)C(C)C)O,Metoprolol_analog_224,44.19707242743469,Synthetic_Analog,Generated_Variation,251.37,2.547700000000001
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_225,81.84446287280362,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene_analog_226,77.53926674751135,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_227",81.97945478885472,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1,Cumene_analog_228,78.01773454428121,Synthetic_Analog,Generated_Variation,120.19499999999995,2.8100000000000014
+CC(=O)Nc1ccc(O)cc1,Acetaminophen_analog_229,88.0145088895574,Synthetic_Analog,Generated_Variation,151.165,1.3505999999999998
+CC(C)c1ccc(cc1)C(C)C(=O)O,Isobuprofen_analog_230,84.04748225433322,Synthetic_Analog,Generated_Variation,192.25799999999995,2.998100000000001
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_231",68.38033979334759,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_232",70.48717285693728,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)c1ccc(cc1)C(C)C,p-Diisopropylbenzene_analog_233,92.86270832267843,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_234",91.26010234262306,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1O,2-Isopropylphenol_analog_235,99.0,Synthetic_Analog,Generated_Variation,136.19399999999996,2.5156000000000014
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_236,64.38329760381998,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(C)NCC(COc1ccc(cc1)C(C)C)O,Metoprolol_analog_237,41.514617120827474,Synthetic_Analog,Generated_Variation,251.37,2.547700000000001
+CC(=O)Nc1ccc(O)cc1,Acetaminophen_analog_238,87.1320168914919,Synthetic_Analog,Generated_Variation,151.165,1.3505999999999998
+CC(C)c1ccc(O)c(C(C)C)c1,"2,6-Diisopropylphenol_analog_239",74.24793494188026,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+c1ccc(cc1)c2ccccc2,Biphenyl_analog_240,70.01840384143524,Synthetic_Analog,Generated_Variation,154.21199999999996,3.353600000000002
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_241,87.07992373749332,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_242,76.28376201084026,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(C)c1ccccc1C(C)C,"2,6-Diisopropylbenzene_analog_243",84.77262833920747,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Caffeine_analog_244,81.26860443244823,Synthetic_Analog,Generated_Variation,194.194,-1.0293
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_245",73.58918939241605,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_246",83.37014653065755,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(=O)Nc1ccc(O)cc1,Acetaminophen_analog_247,99.0,Synthetic_Analog,Generated_Variation,151.165,1.3505999999999998
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_248",68.00424900112391,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_249",79.07803827384407,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_250",87.06239573720629,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene_analog_251,93.34940516294999,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_252",71.83182830550832,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_253,86.11582588260569,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+CC(C)c1ccccc1,Cumene_analog_254,79.11068949804722,Synthetic_Analog,Generated_Variation,120.19499999999995,2.8100000000000014
+CC(C)(C)c1ccccc1,tert-Butylbenzene_analog_255,79.98513704369476,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_256",73.26394156757316,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)CC(C)C(=O)O,3-Methylbutyric acid_analog_257,87.81449525130313,Synthetic_Analog,Generated_Variation,130.18699999999998,1.7532
+c1ccc(cc1)C(c2ccccc2)c3ccccc3,Triphenylmethane_analog_258,22.593143902247988,Synthetic_Analog,Generated_Variation,244.337,4.866800000000003
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_259",80.70967527472149,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_260,92.87218835650472,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+CC(C)c1ccc(O)cc1,4-Isopropylphenol_analog_261,83.39836083415145,Synthetic_Analog,Generated_Variation,136.19399999999996,2.515600000000001
+CC(C)c1ccccc1C(C)C,"2,6-Diisopropylbenzene_analog_262",99.0,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)Cc1ccccc1,Isobutylbenzene_analog_263,67.66363919891828,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CC(C)(C)c1ccccc1,tert-Butylbenzene_analog_264,81.42581190568073,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)c1ccc(O)cc1,4-Isopropylphenol_analog_265,91.16542663618489,Synthetic_Analog,Generated_Variation,136.19399999999996,2.515600000000001
+c1ccc(cc1)C(C)(C)C,tert-Butylbenzene_analog_266,90.33644882775833,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_267",72.59614653099644,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+CC(C)NCC(COc1ccccc1)O,Atenolol_analog_268,63.40234599734576,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+CC(C)(C)c1ccc(O)cc1,4-tert-Butylphenol_analog_269,88.72058069585329,Synthetic_Analog,Generated_Variation,150.22099999999998,2.689700000000001
+c1ccc(cc1)CC(C)C,Isobutylbenzene_analog_270,82.66184348640382,Synthetic_Analog,Generated_Variation,134.22199999999998,2.8851000000000013
+CN1CCC[C@H]1c2cccnc2,Nicotine_analog_271,8.484307226930156,Synthetic_Analog,Generated_Variation,162.236,1.8483
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Phenytoin_analog_272,71.93209979044191,Synthetic_Analog,Generated_Variation,206.28499999999997,3.073200000000001
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Caffeine_analog_273,82.34676859508363,Synthetic_Analog,Generated_Variation,194.194,-1.0293
+CCN(CC)c1ccc(cc1)C(c2ccccc2)c3ccccc3,Diphenhydramine_analog_274,62.632072113952454,Synthetic_Analog,Generated_Variation,315.46000000000004,5.713000000000005
+CC(C)c1ccccc1C(C)C,"2,4-Diisopropylbenzene_analog_275",85.31906249229701,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccc(O)cc1C(C)C,"2,4-Diisopropylphenol_analog_276",68.50220034920949,Synthetic_Analog,Generated_Variation,178.27499999999995,3.639000000000002
+O=C(O)Cc1ccccc1Nc2c(Cl)cccc2Cl,Diclofenac_analog_277,64.61203109949419,Synthetic_Analog,Generated_Variation,296.153,4.364100000000001
+c1ccc(cc1)C(c2ccccc2)c3ccccc3,Triphenylmethane_analog_278,7.36487897141604,Synthetic_Analog,Generated_Variation,244.337,4.866800000000003
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_279",58.70339252022289,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+c1ccc(cc1)C(C)C,Isopropylbenzene_analog_280,92.56025824434138,Synthetic_Analog,Generated_Variation,120.19499999999996,2.8100000000000014
+c1ccc(cc1)C(c2ccccc2)c3ccccc3,Triphenylmethane_analog_281,14.84787033677849,Synthetic_Analog,Generated_Variation,244.337,4.866800000000003
+CCCCCCCCCCCCCCCCCCCc1ccc(O)cc1,Octylphenol_analog_282,83.97976508289753,Synthetic_Analog,Generated_Variation,360.626,8.586300000000003
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Caffeine_analog_283,89.54125919103876,Synthetic_Analog,Generated_Variation,194.194,-1.0293
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_284,84.6144361157135,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+CCN(CC)c1ccc(cc1)C(c2ccccc2)c3ccccc3,Diphenhydramine_analog_285,64.58174848270471,Synthetic_Analog,Generated_Variation,315.46000000000004,5.713000000000005
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Ibuprofen_analog_286,73.38215245158142,Synthetic_Analog,Generated_Variation,206.28499999999997,3.073200000000001
+CC(C)c1cc(C(=O)O)ccc1O,Naproxen_analog_287,98.94149187040324,Synthetic_Analog,Generated_Variation,180.20299999999997,2.2138000000000004
+CC(C)c1ccccc1C(C)C,"3,5-Diisopropylbenzene_analog_288",84.71098404905395,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)(C)c1ccccc1,tert-Butylbenzene_analog_289,82.25439010695065,Synthetic_Analog,Generated_Variation,134.22199999999998,2.9841000000000015
+CC(C)NCC(COc1ccccc1)O,Propranolol_analog_290,29.66141163543071,Synthetic_Analog,Generated_Variation,209.28900000000002,1.4242999999999997
+CC(C)c1ccc(O)c(c1)C(C)C,"3,5-Diisopropylphenol_analog_291",75.36486271940475,Synthetic_Analog,Generated_Variation,178.27499999999998,3.639000000000003
+CC(C)c1ccccc1C(C)C,"2,6-Diisopropylbenzene_analog_292",88.11343660915631,Synthetic_Analog,Generated_Variation,162.27599999999995,3.9334000000000033
+CC(C)c1ccc(O)cc1,4-Isopropylphenol_analog_293,83.65543368635576,Synthetic_Analog,Generated_Variation,136.19399999999996,2.515600000000001
+c1ccc(cc1)C(c2ccccc2)c3ccccc3,Triphenylmethane_analog_294,17.28140259719723,Synthetic_Analog,Generated_Variation,244.337,4.866800000000003
+CC(C)CC(C)C(=O)O,3-Methylbutyric acid_analog_295,86.3854924597792,Synthetic_Analog,Generated_Variation,130.18699999999998,1.7532
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,Ibuprofen_analog_296,72.26311156319227,Synthetic_Analog,Generated_Variation,206.28499999999997,3.073200000000001
+CC(C)c1cc(C(=O)O)ccc1O,Naproxen_analog_297,94.11254451496391,Synthetic_Analog,Generated_Variation,180.20299999999997,2.2138000000000004
+CC(C)Cc1ccc(cc1)C(C)C,p-Isobutylisopropylbenzene_analog_298,92.81047301184883,Synthetic_Analog,Generated_Variation,176.30299999999997,4.008500000000003
+CCN(CC)c1ccc(cc1)C(c2ccccc2)c3ccccc3,Diphenhydramine_analog_299,65.70179450912894,Synthetic_Analog,Generated_Variation,315.46000000000004,5.713000000000005
